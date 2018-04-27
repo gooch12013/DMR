@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QRZDatabase version="1.33" xmlns="http://xmldata.qrz.com">
+<Callsign>
+<call>G0NHF</call>
+<fname>Tony</fname>
+<name>Slater</name>
+<addr2>DERBYSHIRE</addr2>
+<country>England</country>
+</Callsign>
+<Session>
+<Key>f6cc2e2b7ea27fd97cc1ce8385e10d2d</Key>
+<Count>15</Count>
+<SubExp>non-subscriber</SubExp>
+<Message>A subscription is required to access the complete record.</Message>
+<GMTime>Fri Apr 27 21:29:37 2018</GMTime>
+<Remark>cpu: 0.040s</Remark>
+</Session>
+</QRZDatabase>

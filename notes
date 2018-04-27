@@ -1,0 +1,30 @@
+
+API Key
+@$1NQdnnYSF$5v.8V4ENBExB4z@v1zV0wWOk78H2$k@3P.cI2QsEs$dwxc.yMUyfOjzVreXpyXtlVF0YstAUqNoX$ntJe.Z@iwUKKP7gJABCcCxF25xtTVoQfRxuQut6
+
+@$1NQdnnYSF$5v.8V4ENBExB4z@v1zV0wWOk78H2$k@3P.cI2QsEs$dwxc.yMUyfOjzVreXpyXtlVF0YstAUqNoX$ntJe.Z@iwUKKP7gJABCcCxF25xtTVoQfRxuQut6
+
+
+
+C:\Program Files (x86)\Python36-32\python.exe" C:/Users/dgooch/Documents/Python/DMR/QRZ_Response.py
+{http://xmldata.qrz.com}call
+{http://xmldata.qrz.com}fname
+{http://xmldata.qrz.com}name
+{http://xmldata.qrz.com}addr2
+{http://xmldata.qrz.com}state
+{http://xmldata.qrz.com}country
+{http://xmldata.qrz.com}Key
+{http://xmldata.qrz.com}Count
+{http://xmldata.qrz.com}SubExp
+{http://xmldata.qrz.com}Message
+{http://xmldata.qrz.com}GMTime
+{http://xmldata.qrz.com}Remark
+
+Process finished with exit code 0
+
+
+
+
+
+
+
